@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.env
+
+# macOS system files
+.DS_Store
+
+# Data files
+data/
+*.csv
+*.xlsx
+
+# Screenshots or images
+screenshots/
+*.png
+*.jpg
+*.jpeg
