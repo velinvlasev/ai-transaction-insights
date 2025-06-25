@@ -17,13 +17,19 @@ A lightweight fintech analytics tool that ingests CSV bank statements, uses AI t
 - 🔐 Secrets management via Streamlit Cloud
 
 ---
+## Instructions
+📌 Column Details:
+	•	Date: A valid date string (e.g., 2024-06-01). Format: YYYY-MM-DD.
+	•	Description: Transaction label or merchant name.
+	•	Amount: Use negative numbers for expenses and positive for income.
+	•	Currency: ISO 4217 currency code (e.g., EUR, USD).
+	•	Category (optional): You can pre-fill this, or the app will try to classify it automatically.
 
-## 📸 Screenshots
-
-> *(Add screenshots in `/screenshots` and update here)*
-
-![Dashboard](screenshots/dashboard.png)
-![Upload](screenshots/upload.png)
+💡 Tips:
+	•	Decimal separator: Use . (dot), not comma.
+	•	Header row must be included.
+	•	File must be in .csv format, UTF-8 encoded.
+ 
 
 ---
 
