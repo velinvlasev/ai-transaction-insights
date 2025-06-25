@@ -3,7 +3,7 @@
 
 A lightweight fintech analytics tool that ingests CSV bank statements, uses AI to classify transactions, and visualizes financial trends.
 
-🚀 **Live App**: [https://velinvlasev-ai-insights.streamlit.app](https://velinvlasev-ai-insights.streamlit.app)
+🚀 **Live App**: https://ai-transaction-insights.streamlit.app
 
 ---
 
